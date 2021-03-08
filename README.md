@@ -1,2 +1,4 @@
 # LoRaWAN_920_923
-Training materials
+
+1. LoRaWAN ardiuno code for band 920_923Mhz in Vietnam
+2. 
